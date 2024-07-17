@@ -20,7 +20,7 @@ if __name__ == '__main__':
     champ_table = soup.findAll('table')[1]
 
     role_info = []
-    for i, row in enumerate(champ_table.findAll('tr')):
+    for row in champ_table.findAll('tr'):
         try:
             champ_name = row.find('span', {'data-game': 'lol'})['data-champion']
         except KeyError:
