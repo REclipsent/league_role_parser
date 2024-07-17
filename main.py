@@ -37,8 +37,7 @@ if __name__ == '__main__':
             except KeyError:
                 continue
 
-            if sort_value == '1':
-                champ_roles.append(RoleLookup(i).name)
+            champ_roles.append(RoleLookup(i).name)
 
         role_info.append({"Name": champ_name,
                           "Role": champ_roles})
