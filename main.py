@@ -40,7 +40,8 @@ if __name__ == '__main__':
             if sort_value == '1':
                 champ_roles.append(RoleLookup(i).name)
 
-        role_info.append({champ_name: champ_roles})
+        role_info.append({"Name": champ_name,
+                          "Role": champ_roles})
 
     with open('champions.json', 'w') as f:
         json.dump(role_info, f, indent=2)

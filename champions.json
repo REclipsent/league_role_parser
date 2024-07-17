@@ -1,856 +1,1023 @@
 [
   {
-    "Aatrox": [
+    "Name": "Aatrox",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Ahri": [
+    "Name": "Ahri",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Akali": [
+    "Name": "Akali",
+    "Role": [
       "TOP",
       "MID"
     ]
   },
   {
-    "Akshan": [
+    "Name": "Akshan",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Alistar": [
+    "Name": "Alistar",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Amumu": [
+    "Name": "Amumu",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Anivia": [
+    "Name": "Anivia",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Annie": [
+    "Name": "Annie",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Aphelios": [
+    "Name": "Aphelios",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Ashe": [
+    "Name": "Ashe",
+    "Role": [
       "BOT",
       "SUPPORT"
     ]
   },
   {
-    "Aurelion Sol": [
+    "Name": "Aurelion Sol",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Azir": [
+    "Name": "Azir",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Bard": [
+    "Name": "Bard",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Bel'Veth": [
+    "Name": "Bel'Veth",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Blitzcrank": [
+    "Name": "Blitzcrank",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Brand": [
+    "Name": "Brand",
+    "Role": [
       "JUNGLE",
       "SUPPORT"
     ]
   },
   {
-    "Braum": [
+    "Name": "Braum",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Briar": [
+    "Name": "Briar",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Caitlyn": [
+    "Name": "Caitlyn",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Camille": [
+    "Name": "Camille",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Cassiopeia": [
+    "Name": "Cassiopeia",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Cho'Gath": [
+    "Name": "Cho'Gath",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Corki": [
+    "Name": "Corki",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Darius": [
+    "Name": "Darius",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Diana": [
+    "Name": "Diana",
+    "Role": [
       "JUNGLE",
       "MID"
     ]
   },
   {
-    "Dr. Mundo": [
+    "Name": "Dr. Mundo",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Draven": [
+    "Name": "Draven",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Ekko": [
+    "Name": "Ekko",
+    "Role": [
       "JUNGLE",
       "MID"
     ]
   },
   {
-    "Elise": [
+    "Name": "Elise",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Evelynn": [
+    "Name": "Evelynn",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Ezreal": [
+    "Name": "Ezreal",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Fiddlesticks": [
+    "Name": "Fiddlesticks",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Fiora": [
+    "Name": "Fiora",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Fizz": [
+    "Name": "Fizz",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Galio": [
+    "Name": "Galio",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Gangplank": [
+    "Name": "Gangplank",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Garen": [
+    "Name": "Garen",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Gnar": [
+    "Name": "Gnar",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Gragas": [
+    "Name": "Gragas",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Graves": [
+    "Name": "Graves",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Gwen": [
+    "Name": "Gwen",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Hecarim": [
+    "Name": "Hecarim",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Heimerdinger": [
+    "Name": "Heimerdinger",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Hwei": [
+    "Name": "Hwei",
+    "Role": [
       "MID",
       "SUPPORT"
     ]
   },
   {
-    "Illaoi": [
+    "Name": "Illaoi",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Irelia": [
+    "Name": "Irelia",
+    "Role": [
       "TOP",
       "MID"
     ]
   },
   {
-    "Ivern": [
+    "Name": "Ivern",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Janna": [
+    "Name": "Janna",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Jarvan IV": [
+    "Name": "Jarvan IV",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Jax": [
+    "Name": "Jax",
+    "Role": [
       "TOP",
       "JUNGLE"
     ]
   },
   {
-    "Jayce": [
+    "Name": "Jayce",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Jhin": [
+    "Name": "Jhin",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Jinx": [
+    "Name": "Jinx",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "K'Sante": [
+    "Name": "K'Sante",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Kai'Sa": [
+    "Name": "Kai'Sa",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Kalista": [
+    "Name": "Kalista",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Karma": [
+    "Name": "Karma",
+    "Role": [
       "MID",
       "SUPPORT"
     ]
   },
   {
-    "Karthus": [
+    "Name": "Karthus",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Kassadin": [
+    "Name": "Kassadin",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Katarina": [
+    "Name": "Katarina",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Kayle": [
+    "Name": "Kayle",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Kayn": [
+    "Name": "Kayn",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Kennen": [
+    "Name": "Kennen",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Kha'Zix": [
+    "Name": "Kha'Zix",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Kindred": [
+    "Name": "Kindred",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Kled": [
+    "Name": "Kled",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Kog'Maw": [
+    "Name": "Kog'Maw",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "LeBlanc": [
+    "Name": "LeBlanc",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Lee Sin": [
+    "Name": "Lee Sin",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Leona": [
+    "Name": "Leona",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Lillia": [
+    "Name": "Lillia",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Lissandra": [
+    "Name": "Lissandra",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Lucian": [
+    "Name": "Lucian",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Lulu": [
+    "Name": "Lulu",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Lux": [
+    "Name": "Lux",
+    "Role": [
       "MID",
       "SUPPORT"
     ]
   },
   {
-    "Malphite": [
+    "Name": "Malphite",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Malzahar": [
+    "Name": "Malzahar",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Maokai": [
+    "Name": "Maokai",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Master Yi": [
+    "Name": "Master Yi",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Milio": [
+    "Name": "Milio",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Miss Fortune": [
+    "Name": "Miss Fortune",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Mordekaiser": [
+    "Name": "Mordekaiser",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Morgana": [
+    "Name": "Morgana",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Naafiri": [
+    "Name": "Naafiri",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Nami": [
+    "Name": "Nami",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Nasus": [
+    "Name": "Nasus",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Nautilus": [
+    "Name": "Nautilus",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Neeko": [
+    "Name": "Neeko",
+    "Role": [
       "MID",
       "SUPPORT"
     ]
   },
   {
-    "Nidalee": [
+    "Name": "Nidalee",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Nilah": [
+    "Name": "Nilah",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Nocturne": [
+    "Name": "Nocturne",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Nunu & Willump": [
+    "Name": "Nunu & Willump",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Olaf": [
+    "Name": "Olaf",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Orianna": [
+    "Name": "Orianna",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Ornn": [
+    "Name": "Ornn",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Pantheon": [
+    "Name": "Pantheon",
+    "Role": [
       "TOP",
       "SUPPORT"
     ]
   },
   {
-    "Poppy": [
+    "Name": "Poppy",
+    "Role": [
       "TOP",
       "JUNGLE"
     ]
   },
   {
-    "Pyke": [
+    "Name": "Pyke",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Qiyana": [
+    "Name": "Qiyana",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Quinn": [
+    "Name": "Quinn",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Rakan": [
+    "Name": "Rakan",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Rammus": [
+    "Name": "Rammus",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Rek'Sai": [
+    "Name": "Rek'Sai",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Rell": [
+    "Name": "Rell",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Renata Glasc": [
+    "Name": "Renata Glasc",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Renekton": [
+    "Name": "Renekton",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Rengar": [
+    "Name": "Rengar",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Riven": [
+    "Name": "Riven",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Rumble": [
+    "Name": "Rumble",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Ryze": [
+    "Name": "Ryze",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Samira": [
+    "Name": "Samira",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Sejuani": [
+    "Name": "Sejuani",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Senna": [
+    "Name": "Senna",
+    "Role": [
       "BOT",
       "SUPPORT"
     ]
   },
   {
-    "Seraphine": [
+    "Name": "Seraphine",
+    "Role": [
       "BOT",
       "SUPPORT"
     ]
   },
   {
-    "Sett": [
+    "Name": "Sett",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Shaco": [
+    "Name": "Shaco",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Shen": [
+    "Name": "Shen",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Shyvana": [
+    "Name": "Shyvana",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Singed": [
+    "Name": "Singed",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Sion": [
+    "Name": "Sion",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Sivir": [
+    "Name": "Sivir",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Skarner": [
+    "Name": "Skarner",
+    "Role": [
       "TOP",
       "JUNGLE"
     ]
   },
   {
-    "Smolder": [
+    "Name": "Smolder",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Sona": [
+    "Name": "Sona",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Soraka": [
+    "Name": "Soraka",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Swain": [
+    "Name": "Swain",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Sylas": [
+    "Name": "Sylas",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Syndra": [
+    "Name": "Syndra",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Tahm Kench": [
+    "Name": "Tahm Kench",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Taliyah": [
+    "Name": "Taliyah",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Talon": []
+    "Name": "Talon",
+    "Role": []
   },
   {
-    "Taric": [
+    "Name": "Taric",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Teemo": [
+    "Name": "Teemo",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Thresh": [
+    "Name": "Thresh",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Tristana": [
+    "Name": "Tristana",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Trundle": [
+    "Name": "Trundle",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Tryndamere": [
+    "Name": "Tryndamere",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Twisted Fate": [
+    "Name": "Twisted Fate",
+    "Role": [
       "MID",
       "BOT"
     ]
   },
   {
-    "Twitch": [
+    "Name": "Twitch",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Udyr": [
+    "Name": "Udyr",
+    "Role": [
       "TOP",
       "JUNGLE"
     ]
   },
   {
-    "Urgot": [
+    "Name": "Urgot",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Varus": [
+    "Name": "Varus",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Vayne": [
+    "Name": "Vayne",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Veigar": [
+    "Name": "Veigar",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Vel'Koz": [
+    "Name": "Vel'Koz",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Vex": [
+    "Name": "Vex",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Vi": [
+    "Name": "Vi",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Viego": [
+    "Name": "Viego",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Viktor": [
+    "Name": "Viktor",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Vladimir": [
+    "Name": "Vladimir",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Volibear": [
+    "Name": "Volibear",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Warwick": [
+    "Name": "Warwick",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Wukong": [
+    "Name": "Wukong",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Xayah": [
+    "Name": "Xayah",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Xerath": [
+    "Name": "Xerath",
+    "Role": [
       "MID",
       "SUPPORT"
     ]
   },
   {
-    "Xin Zhao": [
+    "Name": "Xin Zhao",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Yasuo": [
+    "Name": "Yasuo",
+    "Role": [
       "TOP",
       "MID",
       "BOT"
     ]
   },
   {
-    "Yone": [
+    "Name": "Yone",
+    "Role": [
       "TOP",
       "MID"
     ]
   },
   {
-    "Yorick": [
+    "Name": "Yorick",
+    "Role": [
       "TOP"
     ]
   },
   {
-    "Yuumi": [
+    "Name": "Yuumi",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Zac": [
+    "Name": "Zac",
+    "Role": [
       "JUNGLE"
     ]
   },
   {
-    "Zed": [
+    "Name": "Zed",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Zeri": [
+    "Name": "Zeri",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Ziggs": [
+    "Name": "Ziggs",
+    "Role": [
       "BOT"
     ]
   },
   {
-    "Zilean": [
+    "Name": "Zilean",
+    "Role": [
       "SUPPORT"
     ]
   },
   {
-    "Zoe": [
+    "Name": "Zoe",
+    "Role": [
       "MID"
     ]
   },
   {
-    "Zyra": [
+    "Name": "Zyra",
+    "Role": [
       "SUPPORT"
     ]
   }
