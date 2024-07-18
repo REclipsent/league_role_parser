@@ -1,7 +1,9 @@
-import requests
-import json
+from requests import get
+from json import dump
 from bs4 import BeautifulSoup
 from enum import Enum
+
+WIKI_URL = 'https://leagueoflegends.fandom.com/wiki/List_of_champions_by_draft_position'
 
 
 class RoleLookup(Enum):
@@ -15,8 +17,7 @@ class RoleLookup(Enum):
 
 
 if __name__ == '__main__':
-    wiki_url = 'https://leagueoflegends.fandom.com/wiki/List_of_champions_by_draft_position'
-    soup = BeautifulSoup(requests.get(wiki_url).text, 'html.parser')
+    soup = BeautifulSoup(get(WIKI_URL).text, 'html.parser')
     champ_table = soup.findAll('table')[1]
 
     role_info = []
@@ -43,4 +44,4 @@ if __name__ == '__main__':
                           "Role": champ_roles})
 
     with open('champions.json', 'w') as f:
-        json.dump(role_info, f, indent=2)
+        dump(role_info, f, indent=2)
