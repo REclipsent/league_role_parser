@@ -22,10 +22,12 @@ def main() -> None:
 
     role_info = []
     for row in champ_table.findAll('tr'):
-        try:
-            champ_name = row.find('span', {'data-game': 'lol'})['data-champion']
-        except KeyError:
+        champ_cell = row.find('span')
+
+        if 'data-champion' not in champ_cell.attrs:
             continue
+
+        champ_name = champ_cell['data-champion']
 
         champ_roles = []
         columns = row.findAll('td')
