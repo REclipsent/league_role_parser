@@ -3,7 +3,7 @@ from json import dump
 from bs4 import BeautifulSoup
 from enum import Enum
 
-WIKI_URL = 'https://leagueoflegends.fandom.com/wiki/List_of_champions_by_draft_position'
+WIKI_URL: str = 'https://leagueoflegends.fandom.com/wiki/List_of_champions_by_draft_position'
 
 
 class RoleLookup(Enum):
@@ -16,7 +16,7 @@ class RoleLookup(Enum):
     UNPLAYED = 6
 
 
-if __name__ == '__main__':
+def main() -> None:
     soup = BeautifulSoup(get(WIKI_URL).text, 'html.parser')
     champ_table = soup.findAll('table')[1]
 
@@ -33,9 +33,7 @@ if __name__ == '__main__':
             if i == 0:
                 continue
 
-            try:
-                sort_value = col['data-sort-value']
-            except KeyError:
+            if 'data-sort-value' not in col.attrs:
                 continue
 
             champ_roles.append(RoleLookup(i).name)
@@ -45,3 +43,7 @@ if __name__ == '__main__':
 
     with open('champions.json', 'w') as f:
         dump(role_info, f, indent=2)
+
+
+if __name__ == '__main__':
+    main()
